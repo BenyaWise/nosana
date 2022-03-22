@@ -1,0 +1,12 @@
+pragma solidity ^0.6.0; 
+
+contract simple_storage {
+
+    uint256 favoriteNumber = 5;
+    bool favoriteBool = false;
+    string favoriteString = "String";
+    int256 favoriteInt = -5;
+    address favoriteAddress = 
+    bytes32 favoriteBytes = "cat"
+
+}
